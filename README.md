@@ -1,11 +1,5 @@
 ![Banner](https://github.com/varsha-varadarajan/varsha-varadarajan/blob/master/images/vv.png)
 
-<p align="center">
-	<a href="https://github.com/varsha-varadarajan"><img src="https://img.shields.io/github/followers/varsha-varadarajan.svg?label=GitHub&style=social" alt="GitHub"></a>
-    <!-- <a href="https://github.com/varsha-varadarajan"><img src="https://img.shields.io/github/followers/varsha-varadarajan?label=Follow" alt="GitHub"></a> -->
-	<a href="https://www.linkedin.com/in/varsha-varadarajan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
 <a href=""><img src="https://img.shields.io/badge/Hi-there-green" alt="GitHub"></a>
 I'm Varsha 😄. I'm a Software Engineer currently studying at Bentley University.
 I'm interested in all things tech, and all things at the intersection of business, data and technology! 
