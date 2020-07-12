@@ -1,4 +1,4 @@
-![Banner](/images/vv.png)
+![Banner](https://github.com/varsha-varadarajan/varsha-varadarajan/blob/master/images/vv.png)
 
 <p align="center">
 	<a href="https://github.com/varsha-varadarajan"><img src="https://img.shields.io/github/followers/varsha-varadarajan.svg?label=GitHub&style=social" alt="GitHub"></a>
