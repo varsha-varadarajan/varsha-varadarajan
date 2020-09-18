@@ -16,7 +16,6 @@ I'm interested in all things tech, and all things at the intersection of busines
 * Navigating your early software dev career
 * Places to visit in India!
 
-
 <!--
 **varsha-varadarajan/varsha-varadarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Feel free to hit me up on [LinkedIn](https://www.linkedin.com/in/varsha-varadarajan/) or send me an email at nvvarsha2009@gmail.com.
