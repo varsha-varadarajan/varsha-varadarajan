@@ -7,7 +7,7 @@ I'm interested in all things tech, and all things at the intersection of busines
 
 **Fun facts** ⚡
 * Varsha means 'Rain' in [Hindi](https://en.wikipedia.org/wiki/Hindi)/[Sanskrit](https://en.wikipedia.org/wiki/Sanskrit).
-* I speak 5 languages, currently learning German! 🌱 (*Yaaay 2020 goal!*)
+* I speak 5 languages.
 * My blood group reads 'Coffee' :coffee:
 
 **Ask me about** 💬
