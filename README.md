@@ -1,7 +1,7 @@
 ![Banner](https://github.com/varsha-varadarajan/varsha-varadarajan/blob/master/images/vv.png)
 
 <a href=""><img src="https://img.shields.io/badge/Hi-there-green" alt="GitHub"></a>
-I'm Varsha 😄. I'm a Software Engineer currently studying at Bentley University.
+I'm Varsha 😄. I'm a Software Engineer at Nordstrom.
 I'm interested in all things tech, and all things at the intersection of business, data and technology! 
 *✨ Current mantra - **Strike all 'If onlys' with 'What ifs'** ✨*
 
